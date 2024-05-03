@@ -135,7 +135,7 @@ const json = {
     {
      "type": "radiogroup",
      "name": "religione",
-     "title": "Posizione religiosa",
+     "title": "Credo religioso",
      "colCount": 2,     
      "isRequired": true,
      "choices": [
