@@ -147,7 +147,7 @@ const json = {
       "Ateo"
      ],
      "showOtherItem": true,
-     "otherText": "Altra religione"
+     "otherText": "Altro"
     }    
    ]
   }].concat(pages,
