@@ -1,0 +1,21 @@
+img {
+  max-height: 100vh;
+  max-width: 100%;
+  width: auto; /* Maintain aspect ratio */
+  display: block; /* Remove extra space below inline image */
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.sd-table__cell {
+    min-width: 0;
+}
+
+#sp_100, #sp_101 {
+    max-width: calc(90*(var(--sjs-base-unit, var(--base-unit, 8px))));
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#surveyResult {
+    display: block;
+}
