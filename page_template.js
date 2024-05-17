@@ -204,79 +204,79 @@ const page_template =
      "isRequired": true,
      "choices": [
       {
-       "value": "Item 1",
+       "value": "Madonna di Lourdes",
        "text": {
         "it": "Madonna di Lourdes"
        }
       },
       {
-       "value": "Item 2",
+       "value": "Madonna di Fatima",
        "text": {
         "it": "Madonna di Fatima"
        }
       },
       {
-       "value": "Item 3",
+       "value": "Madonna de La Salette",
        "text": {
         "it": "Madonna de La Salette"
        }
       },
       {
-       "value": "Item 4",
+       "value": "Madonna delle Lacrime di Siracusa",
        "text": {
         "it": "Madonna delle Lacrime di Siracusa"
        }
       },
       {
-       "value": "Item 5",
+       "value": "Madonna del Rosario di Pompei",
        "text": {
         "it": "Madonna del Rosario di Pompei"
        }
       },
       {
-       "value": "Item 6",
+       "value": "Madonna di Caravaggio",
        "text": {
         "it": "Madonna di Caravaggio"
        }
       },
       {
-       "value": "Item 7",
+       "value": "Madonna di Pontmain",
        "text": {
         "it": "Madonna di Pontmain"
        }
       },
       {
-       "value": "Item 8",
+       "value": "Madonna di Banneux",
        "text": {
         "it": "Madonna di Banneux"
        }
       },
       {
-       "value": "Item 9",
+       "value": "Madonna di Beauring",
        "text": {
         "it": "Madonna di Beauring"
        }
       },
       {
-       "value": "Item 10",
+       "value": "Apparizione di Knock",
        "text": {
         "it": "Apparizione di Knock"
        }
       },
       {
-       "value": "Item 11",
+       "value": "Madonna di Guadalupe",
        "text": {
         "it": "Madonna di Guadalupe"
        }
       },
       {
-       "value": "Item 12",
+       "value": "Nessuna delle precedenti",
        "text": {
         "it": "Nessuna delle precedenti"
        }
       },
       {
-       "value": "Item 13",
+       "value": "Non so",
        "text": {
         "it": "Non so"
        }
